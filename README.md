@@ -1,4 +1,4 @@
-本 demo 旨在复现 taro-ui 的组件 SwipeAction 在手机端会导致页面无法滚动的问题，电脑浏览器没有问题。手机浏览器，微信浏览器都有问题。
+本 demo 旨在复现 taro-ui 的组件 SwipeAction 在手机端会导致页面无法滚动的[问题](https://github.com/NervJS/taro-ui/issues/1722)，电脑浏览器没有问题。手机浏览器，微信浏览器都有问题。
 
 出现问题的手机型号有：mate20pro（鸿蒙2.0.0）、一加 Ace 竞速版（ColorOS 13.1）
 
